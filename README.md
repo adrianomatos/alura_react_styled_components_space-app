@@ -1,5 +1,7 @@
 # React: Estilizando componentes com Styled Components e manipulação de arquivos estáticos
 
+<img src="https://github.com/adrianomatos/alura_react_styled_components_space-app/blob/main/PRINT.png" alt="Print" />
+
 ## Comandos
 
 npm create vite@latest
